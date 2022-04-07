@@ -22,12 +22,4 @@
         </div>
       </div>
 </body>
-<footer>
-  <ul>
-    <li>facebook
-    </li>
-    <li>instagram</li>
-    <li>Twitter</li>
-  </ul>
-</footer>
 </html>
